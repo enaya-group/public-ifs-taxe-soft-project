@@ -281,7 +281,3 @@ Les contributions sont les bienvenues ! Pour contribuer :
 ## **Licence**
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
-
-Cette documentation est conçue pour être claire et complète, permettant aux utilisateurs de comprendre et d'utiliser facilement votre API.
